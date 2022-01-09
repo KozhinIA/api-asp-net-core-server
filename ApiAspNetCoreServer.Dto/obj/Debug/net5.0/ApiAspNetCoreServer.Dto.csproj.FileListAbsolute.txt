@@ -1,0 +1,15 @@
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\bin\Debug\net5.0\ApiAspNetCoreServer.Dto.deps.json
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\bin\Debug\net5.0\ApiAspNetCoreServer.Dto.dll
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\bin\Debug\net5.0\ref\ApiAspNetCoreServer.Dto.dll
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\bin\Debug\net5.0\ApiAspNetCoreServer.Dto.pdb
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\bin\Debug\net5.0\ApiAspNetCoreServer.DataModel.dll
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\bin\Debug\net5.0\ApiAspNetCoreServer.DataModel.pdb
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ApiAspNetCoreServer.Dto.csproj.AssemblyReference.cache
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ApiAspNetCoreServer.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ApiAspNetCoreServer.Dto.AssemblyInfoInputs.cache
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ApiAspNetCoreServer.Dto.AssemblyInfo.cs
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ApiAspNetCoreServer.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ApiAspNetCoreServer.Dto.csproj.CopyComplete
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ApiAspNetCoreServer.Dto.dll
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ref\ApiAspNetCoreServer.Dto.dll
+C:\Users\ApaHTup\source\repos\ApiAspNetCoreServer\ApiAspNetCoreServer.Dto\obj\Debug\net5.0\ApiAspNetCoreServer.Dto.pdb
